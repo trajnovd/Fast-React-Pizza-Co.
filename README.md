@@ -73,12 +73,6 @@ Follow these steps to set up the project locally:
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the MIT License. Feel free to modify and use it as per your needs.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you'd like to contribute, please:
